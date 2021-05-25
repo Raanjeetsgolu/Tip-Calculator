@@ -1,5 +1,6 @@
 #body1{
-  background-color: red;
+  background-color: #5CDB95;
+  color: #ffffff;
   height:1200px ;
   width:400px; 
   margin: auto;
@@ -14,13 +15,19 @@
   border: 2px solid white;
   border-radius: 25px 25px;
 }
-h1{
-  color: blueviolet;
-}
 input{
   height:20px ;
   width:150px;
+  background-color:#EDF5E1 ;
+}
+select{
+  background-color:#EDF5E1 ;
 }
 #calculate{
-  background-color: greenyellow;
+  background-color:#242582;
+  color: white;
+  height:30px ;
+  width: 170px;
+  margin-top: 10px;
+  border-radius: 25px 25px;
 }
