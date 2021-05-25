@@ -1,0 +1,26 @@
+#body1{
+  background-color: red;
+  height:1200px ;
+  width:400px; 
+  margin: auto;
+  padding: 10px;
+  text-align: center;
+  line-height: 30px;
+}
+#title{
+  margin: auto;
+  padding:1px;
+  color:blue;
+  border: 2px solid white;
+  border-radius: 25px 25px;
+}
+h1{
+  color: blueviolet;
+}
+input{
+  height:20px ;
+  width:150px;
+}
+#calculate{
+  background-color: greenyellow;
+}
